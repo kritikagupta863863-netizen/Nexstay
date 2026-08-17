@@ -6,6 +6,7 @@ Development has not started yet; this repo currently holds the product documenta
 
 ## Documentation
 
+- [docs/PRD.md](docs/PRD.md) — product requirements: personas, journeys, functional requirements with acceptance criteria, data model, release scope, assumptions and open questions.
 - [docs/ROADMAP.md](docs/ROADMAP.md) — requirements summary, proposed architecture, data model, and phased build plan.
 - [docs/source-documents/](docs/source-documents/) — original business plan, overview and pitch deck, plus extracted text.
 
