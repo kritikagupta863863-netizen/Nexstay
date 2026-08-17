@@ -1,0 +1,466 @@
+NEXSTAY
+The Operating System for Modern PGs
+
+NEXSTAY is a complete PG ecosystem platform that combines:
+
+
+     • PG Management System
+     • PG Marketplace
+     • Tenant Living App
+
+into one unified platform.
+
+
+Instead of managing PG operations manually through WhatsApp, Excel sheets, paper invoices, and calls,
+NEXSTAY digitizes the complete workflow for both PG owners and tenants.
+
+
+
+
+1. PG MANAGEMENT SYSTEM
+A complete management dashboard for PG owners to run and manage their PG operations efficiently.
+
+
+Core Features
+
+Room Management
+
+     • Track all rooms
+     • Room occupancy status
+     • Sharing type management
+     • Room-wise rent tracking
+     • Vacancy management
+     • Floor and room categorization
+
+
+
+
+Tenant Management
+
+     • Complete tenant records
+     • Tenant profiles
+     • Emergency contact details
+     • ID proof storage
+     • Room assignment
+     • Tenant history
+     • Rent tracking per tenant
+
+
+
+
+                                                   1
+Revenue & Profit Tracking
+
+     • Total monthly revenue
+     • Pending rent tracking
+     • Collected payment tracking
+     • Profit overview
+     • Expense breakdown
+     • Occupancy analytics
+
+
+
+
+AI Profit Suggestions
+
+NEXSTAY AI helps PG owners improve monthly profits by suggesting:
+
+
+     • Better pricing strategies
+     • Occupancy optimization
+     • Expense reduction opportunities
+     • Revenue improvement insights
+
+Example:
+
+
+     • Increase pricing for high-demand rooms
+     • Convert low-performing rooms into sharing rooms
+
+
+
+
+Expense Management
+
+Track all monthly expenses including:
+
+
+     • Electricity
+     • Food expenses
+     • Maintenance
+     • Staff salaries
+     • Internet bills
+     • Repairs
+     • Miscellaneous costs
+
+
+
+
+Employee Management
+
+Manage PG employees with:
+
+
+     • Employee profiles
+     • Salary tracking
+     • Attendance records
+     • Role assignment
+     • Emergency contacts
+
+
+
+
+                                                  2
+     • Performance/work tracking
+
+
+
+
+Complaint Management System
+
+Receive and manage tenant complaints directly through the dashboard.
+
+
+Features include:
+
+
+     • Complaint tracking
+     • Complaint status updates
+     • Image/video uploads
+     • Maintenance workflow
+     • Resolution updates
+
+Complaint statuses:
+
+
+     • Pending
+     • In Progress
+     • Resolved
+
+
+
+
+Invoice & Billing System
+
+Automatically generate and manage:
+
+
+     • Monthly rent invoices
+     • Electricity bills
+     • Additional charges
+     • Payment receipts
+
+Features:
+
+
+     • Auto invoice generation
+     • Downloadable invoices
+     • Payment tracking
+     • Due reminders
+
+
+
+
+PG Profile Management
+
+Every PG owner gets a dedicated PG profile page where they can upload:
+
+
+     • PG images
+     • Room photos
+     • Amenities
+     • Food details
+
+
+
+
+                                                   3
+      • Pricing details
+      • Security deposit information
+      • Rules & policies
+      • Availability status
+
+
+
+
+Marketplace Promotions
+
+Owners can upload:
+
+
+      • Promotional banners
+      • Images
+      • Videos
+      • Offers
+      • Featured listings
+
+directly to the marketplace for better visibility.
+
+
+
+
+Notification System
+
+Send notifications to:
+
+
+      • All tenants
+      • Specific rooms
+      • Selected users
+
+Notifications can include:
+
+
+      • Rent reminders
+      • Maintenance alerts
+      • Emergency notices
+      • General announcements
+
+
+
+
+2. PG MARKETPLACE
+A discovery platform where tenants can explore and compare PGs.
+
+
+
+
+Explore Page
+Users can browse multiple PGs based on:
+
+
+      • Location
+
+
+
+
+                                                     4
+      • Budget
+      • Facilities
+      • Sharing type
+      • Room type
+      • Availability
+
+Features include:
+
+
+      • Smart search
+      • Filters
+      • AI recommendations
+      • Nearby location discovery
+
+
+
+
+Reels / Video Feed
+A short-form video section where users can:
+
+
+      • Watch PG room tours
+      • Explore facilities visually
+      • View food & environment
+      • Discover PGs quickly
+
+If users like a PG, they can directly:
+
+
+      • Contact the owner
+      • Send inquiry
+      • Request booking
+
+
+
+
+PG Detail Page
+Every PG has a detailed page containing:
+
+
+      • Images & videos
+      • Pricing
+      • Facilities
+      • Room types
+      • Nearby places
+      • Food details
+      • Rules & policies
+      • Security deposit details
+      • Contact options
+
+
+
+
+                                              5
+Smart Transparency System
+NEXSTAY focuses heavily on transparency.
+
+
+Users can clearly see:
+
+
+     • Actual rent
+     • Electricity charges
+     • Security amount
+     • Food charges
+     • Extra fees
+     • Room condition
+     • Notice period terms
+
+No hidden surprises.
+
+
+
+
+AI Matching System
+The platform recommends PGs based on:
+
+
+     • User preferences
+     • Budget
+     • Lifestyle
+     • Location
+     • Facilities
+     • Compatibility
+
+
+
+
+Smart Roommate Compatibility
+Tenants can select preferences like:
+
+
+     • Veg / Non-veg
+     • Smoker / Non-smoker
+     • Working professional / Student
+     • Lifestyle compatibility
+
+This helps reduce roommate conflicts after shifting.
+
+
+
+
+3. TENANT APP / LIVING SYSTEM
+Once a tenant joins a PG through NEXSTAY, the platform becomes their PG living companion.
+
+
+
+
+                                                       6
+Tenant Dashboard
+Tenants can:
+
+
+     • Track rent
+     • View invoices
+     • Monitor electricity bills
+     • Access agreements
+     • View PG details
+     • Track complaints
+     • Receive notifications
+
+
+
+
+Tenant Profile
+Each tenant gets a personal profile containing:
+
+
+     • Name
+     • Photo
+     • Contact details
+     • Emergency contact
+     • ID proof
+     • Room details
+     • Stay duration
+     • Preferences
+
+
+
+
+Complaint Raise & Resolution
+Tenants can:
+
+
+     • Raise complaints
+     • Upload images/videos
+     • Add descriptions
+     • Track complaint progress
+
+Everything remains documented and transparent.
+
+
+
+
+Digital Billing & Invoice Access
+Tenants receive:
+
+
+     • Monthly rent invoices
+     • Electricity breakdowns
+
+
+
+
+                                                  7
+         • Payment confirmations
+         • Due reminders
+
+All invoices are downloadable and stored inside the app.
+
+
+
+
+Notifications & Alerts
+Receive updates for:
+
+
+         • Rent due dates
+         • Complaint resolutions
+         • Electricity updates
+         • Maintenance notices
+         • Emergency alerts
+
+
+
+
+AUTHENTICATION SYSTEM
+Login & Signup
+
+Separate onboarding flows for:
+
+
+         • PG Owners
+         • Tenants
+
+Features include:
+
+
+         • Mobile OTP login
+         • Email signup
+         • Secure authentication
+         • Profile setup
+
+
+
+
+CORE VISION OF NEXSTAY
+NEXSTAY is not just a PG listing platform.
+
+
+It is:
+
+
+         • a PG management ERP,
+         • a tenant living app,
+         • a trust & transparency system,
+         • and a marketplace ecosystem together.
+
+
+
+
+                                                     8
+The goal is to create a safer, smarter, and more transparent PG experience for both tenants and PG owners.
+
+
+
+
+                                                    9
+

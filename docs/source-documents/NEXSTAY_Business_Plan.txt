@@ -1,0 +1,392 @@
+NEXSTAY
+The Operating System for India's PG Industry
+
+Founder: Shikhar Agnihotri
+
+
+
+
+Problem
+India's Paying Guest (PG) industry serves over 20 million students and working professionals, yet most
+properties are still managed using WhatsApp, Excel sheets, paper records, and manual follow-ups.
+
+
+This leads to:
+
+
+      • Missed rent collections
+      • Poor occupancy management
+      • Lost tenant records
+      • Manual complaint handling
+      • No business insights
+      • Lack of transparency for tenants
+
+For tenants, finding a trustworthy PG remains equally difficult due to fragmented listings, hidden charges,
+and limited visibility into amenities and policies.
+
+
+
+
+Solution
+NEXSTAY is an AI-powered operating system built for PG accommodations.
+
+
+Instead of using multiple disconnected tools, PG owners can manage their entire business from one
+platform.
+
+
+NEXSTAY combines:
+
+
+• PG Management ERP
+
+
+• Tenant Super App
+
+
+• PG Marketplace
+
+
+into one connected ecosystem.
+
+
+Owners manage operations.
+
+
+
+
+                                                     1
+Tenants manage their stay.
+
+
+Both operate on the same platform.
+
+
+
+
+Why Now?
+India's rental housing market is rapidly formalizing.
+
+
+      • Increasing migration to Tier-1 & Tier-2 cities
+      • Growing student population
+      • Rising demand for organized co-living
+      • Rapid digital adoption among SMBs
+      • UPI-driven digital payments
+
+Despite these trends, PG management software adoption remains extremely low, creating a significant
+opportunity for a category-defining platform.
+
+
+
+
+Market Opportunity
+TAM (Total Addressable Market)
+
+India's student housing and PG market is estimated at ₹50,000+ crore, serving over 2 crore residents.
+
+
+SAM (Serviceable Available Market)
+
+Over 100,000+ professionally managed PGs across India's major cities.
+
+
+SOM (Serviceable Obtainable Market)
+
+Capturing just 1% of the organized PG market (~1,000 PGs) creates a multi-crore recurring SaaS business.
+
+
+
+
+Product
+NEXSTAY enables owners to manage every aspect of their business.
+
+
+Owner Platform
+
+• Room & occupancy management
+
+
+• Rent collection
+
+
+
+
+                                                         2
+• Expense tracking
+
+
+• Complaint management
+
+
+• Employee management
+
+
+• Invoice generation
+
+
+• AI profit analytics
+
+
+• Multi-property dashboard
+
+
+Tenant App
+
+• Rent payments
+
+
+• Digital invoices
+
+
+• Complaint tracking
+
+
+• Notices & announcements
+
+
+• Agreements
+
+
+• Stay management
+
+
+Marketplace
+
+• Discover verified PGs
+
+
+• AI recommendations
+
+
+• Roommate compatibility
+
+
+• Transparent pricing
+
+
+• Direct booking enquiries
+
+
+
+
+What Makes Us Different
+Existing products act like digital registers.
+
+
+NEXSTAY acts like an operating system.
+
+
+
+
+                                                3
+                        Traditional Software    NEXSTAY
+
+                        Manual management       AI-assisted operations
+
+                        Separate tenant tools   Unified ecosystem
+
+                        Limited reporting       Profit & occupancy analytics
+
+                        No discovery platform   Integrated marketplace
+
+                        Basic billing           Complete business operating system
+
+
+
+
+Business Model
+Recurring SaaS subscription based on number of beds managed.
+
+
+Pricing
+
+Starter
+
+
+Up to 50 beds
+
+
+₹4,999/month
+
+
+Growth
+
+
+Up to 100 beds
+
+
+₹8,999/month
+
+
+Enterprise
+
+
+100+ beds
+
+
+Custom Pricing
+
+
+Additional revenue streams:
+
+
+• Setup & onboarding fees
+
+
+• Marketplace promotions
+
+
+• Premium AI tools
+
+
+• Financial services (future)
+
+
+
+
+                                                     4
+Go-To-Market
+Phase 1
+
+
+Launch across Delhi NCR, Noida, Lucknow and Kanpur.
+
+
+Customer acquisition through:
+
+
+• Direct founder-led sales
+
+
+• PG associations
+
+
+• Local field partnerships
+
+
+• Referral program
+
+
+• Content marketing
+
+
+• AI-powered outbound outreach
+
+
+
+
+Traction
+Current Stage
+
+
+• Market research completed
+
+
+• User interviews conducted
+
+
+• Complete user journeys designed
+
+
+• MVP wireframes completed
+
+
+• Product architecture finalized
+
+
+• Development in progress
+
+
+
+
+Vision
+Today, we're building software for PG management.
+
+
+
+
+                                                    5
+Tomorrow, we're building the infrastructure layer for India's rental housing ecosystem.
+
+
+Future roadmap:
+
+
+• AI-powered operations
+
+
+• PG booking marketplace
+
+
+• Digital rental agreements
+
+
+• Smart access systems
+
+
+• Embedded finance
+
+
+• Tenant credit profiles
+
+
+
+
+Financial Projection
+100 PG customers
+
+
+≈ ₹60 Lakhs ARR
+
+
+500 PG customers
+
+
+≈ ₹3 Crore ARR
+
+
+1,000 PG customers
+
+
+≈ ₹6 Crore ARR
+
+
+Additional upside comes from onboarding fees, marketplace monetization, and financial services.
+
+
+
+
+Funding Ask
+Seeking ₹10 Lakhs in seed funding to accelerate MVP development and early customer acquisition.
+
+
+Use of funds:
+
+
+40% Product Development
+
+
+30% Sales & Marketing
+
+
+
+
+                                                     6
+20% Hiring
+
+
+10% Operations
+
+
+
+
+Closing
+NEXSTAY is building the operating system for India's fragmented PG industry—bringing owners,
+tenants, and property discovery onto a single AI-powered platform.
+
+
+
+
+                                                7
+
