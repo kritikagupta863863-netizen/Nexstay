@@ -6,7 +6,15 @@ Development has not started yet; this repo currently holds the product documenta
 
 ## Documentation
 
-- [docs/PRD.md](docs/PRD.md) — product requirements: personas, journeys, functional requirements with acceptance criteria, data model, release scope, assumptions and open questions.
+Current focus: the **PG Management ERP** (owner-side). Marketplace and tenant app are deferred.
+
+- [docs/erp/PRD.md](docs/erp/PRD.md) — ERP product requirements: scope, roles, features with priorities, key flows.
+- [docs/erp/SRS.md](docs/erp/SRS.md) — ERP software requirements spec: architecture, schema, algorithms, state machines, API, non-functional requirements, test scenarios.
+- [docs/erp/BUILD_GUIDE.md](docs/erp/BUILD_GUIDE.md) — step-by-step implementation plan with milestones and risks.
+
+Platform-wide context:
+
+- [docs/PRD.md](docs/PRD.md) — full three-product platform requirements (ERP + marketplace + tenant app).
 - [docs/ROADMAP.md](docs/ROADMAP.md) — requirements summary, proposed architecture, data model, and phased build plan.
 - [docs/source-documents/](docs/source-documents/) — original business plan, overview and pitch deck, plus extracted text.
 
